@@ -23,7 +23,7 @@
 ✔️ AWS (Glue, S3, Lambda, Kinesis, Redshift, EMR)  
 ✔️ Azure (Data Factory, Synapse, Data Lake Gen2)  
 
-### **Databases & Data Analytics **  
+### **Databases & Data Analytics**  
 ✔️ MySQL, PostgreSQL, Spark SQL, NoSQL, Redshift, Power BI, Tableau  
 
 ### **DevOps & Monitoring**  
@@ -45,5 +45,3 @@
 ✔️ AWS Data Engineer – Associate  
 ✔️ Oracle SQL – Database Programming  
 ✔️ One Roadmap – Data Analyst Certification  
-
--
