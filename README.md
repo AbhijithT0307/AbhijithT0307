@@ -4,7 +4,7 @@
 🔹 **AWS | Azure | GCP | Spark | Kafka | Airflow | Python | SQL**  
 🔹 Passionate about building scalable, secure, and high-performance data platforms  
 
-📍 Bentonville, AR, USA | 📧 athakur.data@gmail.com  
+📍 Houston, TX, USA | 📧 athakur.data@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhijith-thakur) | 🚀 [GitHub](https://github.com/AbhijithT0307)
 
 ---
