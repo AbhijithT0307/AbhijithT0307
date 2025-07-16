@@ -1,5 +1,5 @@
 
-# 💼 Abhijith Thakur  \
+# 💼 Abhijith Thakur  
 🔹 **AWS | Azure | GCP | Spark | Kafka | Airflow | Python | SQL**  
 🔹 Passionate about building scalable, secure, and high-performance data platforms  
 
