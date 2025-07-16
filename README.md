@@ -10,7 +10,6 @@
 ---
 
 ## 📌 About Me  
-I am a results-oriented **Data Engineer** with 3+ years of experience designing, deploying, and optimizing **real-time and batch data pipelines** across **AWS, Azure, and GCP**. My focus is on delivering **scalable ETL/ELT workflows**, integrating **machine learning pipelines**, and ensuring **data quality and reliability** in production systems.
 
 ✔️ End-to-end pipeline development using Spark, Airflow, and dbt  
 ✔️ Real-time streaming with Kafka and AWS Kinesis  
@@ -27,8 +26,6 @@ I am a results-oriented **Data Engineer** with 3+ years of experience designing,
 ### **Cloud Platforms & Big Data Tools**  
 ✔️ AWS (Glue, S3, Lambda, Kinesis, Redshift, EMR)  
 ✔️ Azure (Data Factory, Synapse, Data Lake Gen2)  
-✔️ GCP (BigQuery, Cloud Storage, Pub/Sub)  
-✔️ Kafka, Hadoop, Snowflake, Databricks, Delta Lake, Informatica, SSIS  
 
 ### **Databases & BI**  
 ✔️ MySQL, PostgreSQL, Spark SQL, NoSQL, Redshift, Power BI, Tableau  
@@ -90,16 +87,4 @@ I am a results-oriented **Data Engineer** with 3+ years of experience designing,
 ✔️ Oracle SQL – Database Programming  
 ✔️ One Roadmap – Data Analyst Certification  
 
----
-
-## 📞 Contact  
-📍 Bentonville, AR  
-📧 athakur.data@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhijith-thakur)
-
----
-
-## 🎯 Let’s Connect!  
-💬 I’m open to opportunities and collaborations in **cloud data engineering**, **real-time analytics**, and **ML pipeline deployment**.
-
-🔥 *Made with ⚙️ by Abhijith Thakur*
+-
